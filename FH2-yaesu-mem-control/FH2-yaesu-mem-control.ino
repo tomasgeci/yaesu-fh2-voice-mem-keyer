@@ -153,6 +153,8 @@ void loop() {
     return;
   }
 
+  // why such a DRY pattern violation ? Simplified modification of code for those ham fellows who are not deeply involved to C language and datatypes/structures :-)
+
   if ((mem1state == LOW || button1Pressed) && pttState == HIGH)  // memory button pressed, but without PTT
     {
       button1Pressed = true;
