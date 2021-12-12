@@ -40,11 +40,11 @@
 #define MEM4_OUT A4 // MEM4 - 2490 OHM
 #define MEM5_OUT A5 // MEM5 - 3240 OHM
 
-// STOP LED
-#define STOP_LED A6 // this LED is on when STOP button has been pressed
-
 // PLAY LED
-#define PLAY_LED A7 // this LED is on when memory play is in progress
+#define PLAY_LED 12 // this LED is on when memory play is in progress
+
+// STOP LED
+#define STOP_LED 13 // this LED is on when STOP button has been pressed
 
 // delay between messages - 3000ms
 #define DELAY_BETWEEN_MESSAGES_SHORT 3000
