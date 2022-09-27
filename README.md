@@ -1,3 +1,5 @@
+[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://supportukrainenow.org/)
+
 # Yaesu FH2 keyboard-based voice memory keyer
 
 Your Yaesu radio has memory banks for voice/CW messages but unfortunately you have to controll them manually by radio or external keyboard.
