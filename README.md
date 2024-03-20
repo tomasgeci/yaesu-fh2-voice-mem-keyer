@@ -8,6 +8,7 @@ It is a bit annoying in contests with CQ. This small device handles this instead
 ## DISCLAIMER
 - The author of this device is not responsible for any injury, damage, or improper use of your radio equipment
 - If you are not sure what you are doing please consider taking a guidance from more experienced fellow
+- [![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
 
 ## How it works
 - this is a semi-automatic voice keyer for Yaesu MEM1-MEM5 voice memory banks based on external FH2 keyboard input
